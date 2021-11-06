@@ -14,6 +14,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from datetime import datetime
 
+#PRUEBAAAAAA DE ANA
 #%%
 #Carga de base de datos Y ajustamos el tipo de dato de las columnas para el punto tres.
 consbrand = pd.read_excel("C:\Order Report.xlsx")
